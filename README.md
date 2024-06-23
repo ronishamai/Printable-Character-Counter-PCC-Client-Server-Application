@@ -47,4 +47,4 @@ This client-server application facilitates the computation of printable characte
 - **Signal Handling**: Server gracefully handles SIGINT to print statistics before termination.
 - **Protocol**: Defines a clear protocol for data exchange between client and server using TCP/IP.
 
-## (This assignment is part of the Operating Systems course at Tel Aviv University).
+## (This project is part of the Operating Systems course at Tel Aviv University).
